@@ -15,3 +15,6 @@ In this repository, I have translated an entire project from JAVA to C++. This t
 [Journal Two Artifact .docx]
 
 [Journal Three Artifact Narratives and Reflection.docx]
+
+
+Code Review Screen Recording can be viewed here: https://www.youtube.com/watch?v=jN721VdRkLA
