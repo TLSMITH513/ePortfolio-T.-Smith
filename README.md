@@ -9,3 +9,9 @@ coding knowledge.
 **Self-Reflection**
 
 In this repository, I have translated an entire project from JAVA to C++. This took a long time to compile, but I believe this was worth the work. 
+
+[Journal One Self Reflection.docx]
+
+[Journal Two Artifact .docx]
+
+[Journal Three Artifact Narratives and Reflection.docx]
